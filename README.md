@@ -19,7 +19,7 @@ Has:
 ```sh
 $ git clone https://github.com/AuraDavid/final-project.git
 $ npm i
-$ npm start
+$ npm run dev
 $ Remember to change your api key
 ```
 
