@@ -1,0 +1,26 @@
+.navigation {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    font-size: 25px;
+}
+
+ul.navList {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+}
+
+ul.navList>li {
+    padding: 10px;
+}
+
+ul.navList>li>a {
+    color: #14285F;
+    text-decoration: none;
+    font-weight: 600;
+}
